@@ -1,23 +1,23 @@
 h1 {
-    color:rgb(75, 172, 252); font-family: 'Impact'
+    color:rgb(75, 172, 252); font-family: 'TimesNewRoman'
 }
 
-.red-title {
-    color:red;
+.orange-title {
+    color:rgb(255, 136, 0);
     font-size: 30 px;
-    font-style: italic;
+    font-style: regular;
 }
 
 .blue-title {
-    color:blue;
+    color:rgb(0, 195, 255);
     font-size: 20 px;
     font-style: normal;
 }
 
 p {
-    color:rgb(60, 34, 179);
-    margin: 50px;
-    font-family:'Courier New', Courier, monospace
+    color:rgb(0, 0, 0);
+    margin: 20px;
+    font-family:'Times New Roman', Times, serif
 
 }
 
